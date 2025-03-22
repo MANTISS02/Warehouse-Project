@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+opencv-python==4.8.1.78
+numpy==1.26.2
+SQLAlchemy==2.0.23
+python-dotenv==1.0.0
+Pillow==10.1.0
+pioneer-sdk>=0.1.0
+opencv-contrib-python==4.8.1.78
+requests==2.31.0
